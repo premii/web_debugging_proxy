@@ -1,5 +1,5 @@
 # web_debugging_proxy
-List of available tools for debugging http/https requests on the web or apps
+List of available tools for debugging http/https requests for web or native apps
 
 ## GUI
 * https://www.charlesproxy.com/
